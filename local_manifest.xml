@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/surya" name="Jeick18/android_device_xiaomi_surya.git" remote="github" revision="lineage-19.1" />
- <project path="kernel/xiaomi/surya" name="Jeick18/android_kernel_xiaomi_surya.git" remote="github" revision="master" />
+ <project path="kernel/xiaomi/surya" name="Jeick18/android_kernel_xiaomi_surya.git" remote="github" revision="sheesh" />
  <project path="vendor/xiaomi/surya" name="Jeick18/android_vendor_xiaomi_surya.git" remote="github" revision="lineage-19.1" />
  
 </manifest>
